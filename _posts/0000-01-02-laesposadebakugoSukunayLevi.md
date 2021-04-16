@@ -2,5 +2,6 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+¿Cuál es el café más peligroso del mundo?
+El ex-preso
 Utiliza la flecha hacia la izquierda para volver!
